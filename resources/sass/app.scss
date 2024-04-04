@@ -1,0 +1,18 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// mdi icons
+@import '@mdi/font/css/materialdesignicons.css';
+
+//font
+@import '@fontsource/prompt';
+
+// preloader
+@import './../css/common/preloader.css';
+
+* {
+    font-family: 'Prompt', sans-serif !important;
+}
